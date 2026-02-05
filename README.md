@@ -11,14 +11,14 @@ Previously, I graduated *Cum Laude* in Economics from the **University of Bologn
 
 ## Most recent Projects (Master's Degree)
 
-### [Revaluation of "The China Syndrome" (Autor et al.)](LINK_TO_REPO)
+### [Revaluation of "The China Syndrome" (Autor et al.)](https://github.com/Tommaso-Maccaferri/Autor-China-syndrome-replication)
 *R Based Project*
 A replication and critical revaluation of the seminal paper on the impact of Chinese import competition on US labor markets.
 - **Objective:** Testing the robustness of the original results 12 years after publication.
 - **Tools:** R (Tidyverse, Econometric models).
 - **Outcome:** Validated key coefficients and extended the analysis timeframe.
 
-### [West Germany Postwar Growth: Human Capital & Immigration](LINK_TO_REPO)
+### [West Germany Postwar Growth: Human Capital & Immigration](https://github.com/Tommaso-Maccaferri/West-Germany-growth-accounting-julia)
 *Julia Based Project*
 An econometric decomposition of the "Wirtschaftswunder" (1950-1990).
 - **Objective:** Estimating the contribution of human capital accumulation and migration to GDP growth.
