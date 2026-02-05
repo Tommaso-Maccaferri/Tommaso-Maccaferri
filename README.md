@@ -40,4 +40,4 @@ A collection of quantitative analyses and strategic case studies.
 -  **McDonald’s Corporate Structure** - Organizational analysis of a global giant. [Download PDF](LINK_TO_PDF)
 
 ---
-**My contacts:** [LinkedIn Profile](LINK_LINKEDIN) | [Email Address](mailto:tuaemail@example.com)
+**My contacts:** [LinkedIn Profile](https://www.linkedin.com/in/tommaso-maccaferri-6bba44262/) | [Email Address](t.maccaferri@student.maastrichtuniversity.nl)
