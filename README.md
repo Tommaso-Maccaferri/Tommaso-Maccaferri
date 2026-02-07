@@ -38,7 +38,7 @@ A collection of quantitative analyses and strategic case studies.
 ### Strategy & Management
 -  **Amsterdam’s Circular Economy Plan** - Strategic evaluation using the Bryson Model. [Download PDF](https://github.com/Tommaso-Maccaferri/Bachelor-s-projects/blob/main/Analysis%20of%20the%20City%20of%20Amsterdam%E2%80%99s%20Circular%20Economy%20Strategy%20Using%20Bryson%E2%80%99s%20Model.pdf)
 -  **McDonald’s Functional Analysis** - Organizational analysis of a global giant. [Download PDF](https://github.com/Tommaso-Maccaferri/Bachelor-s-projects/blob/main/The%20Functional%20Analysis%20of%20McDonald%E2%80%99s.pdf)
--  **Understanding Corporate Finance through the lens of Cairn Homes PLC annual report** - (https://github.com/Tommaso-Maccaferri/Bachelor-s-projects/blob/main/Understanding%20Corporate%20Finance%20through%20the%20lens%20of%20Cairn%20Homes%20PLC%20annual%20report.pdf)
+-  **Understanding Corporate Finance through the lens of Cairn Homes PLC annual report** - [Download PDF](https://github.com/Tommaso-Maccaferri/Bachelor-s-projects/blob/main/Understanding%20Corporate%20Finance%20through%20the%20lens%20of%20Cairn%20Homes%20PLC%20annual%20report.pdf)
 
 ---
 **My contacts:** [LinkedIn Profile](https://www.linkedin.com/in/tommaso-maccaferri-6bba44262/) |[t.maccaferri@student.maastrichtuniversity.nl]
