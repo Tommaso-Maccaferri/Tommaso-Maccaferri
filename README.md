@@ -31,13 +31,14 @@ An econometric decomposition of the "Wirtschaftswunder" (1950-1990).
 A collection of quantitative analyses and strategic case studies.
 
 ### Data Analysis & Economics
--  **Flight Fares Prices Variations** - Analysis of price volatility in the airline market. [View Project](LINK_TO_PDF)
--  **Factors Influencing Master’s Degree Choices** - Statistical analysis of student preferences. [View Project](LINK_TO_PDF)
--  **Impact of Tertiary Education on Life Expectancy** - Global data study. [View Project](LINK_TO_PDF)
+-  **Flight Fares Prices Variations** - Analysis of price volatility in the airline market. [View Project](https://github.com/Tommaso-Maccaferri/Bachelor-s-projects/blob/main/Flight%20Fres%20Price%20Variation%20Analysis.pdf)
+-  **In-dept Analisys on best Masters of Science in Managemnt worldwide** - Statistical analysis of student preferences. [View Project](https://github.com/Tommaso-Maccaferri/Bachelor-s-projects/blob/main/In-dept%20Analisys%20on%20best%20Masters%20of%20Science%20inManagemnt%20worldwide.pdf)
+-  **Investigating the correlation between Tertiary Education and Life Expectancy** - Global data study. [View Project](https://github.com/Tommaso-Maccaferri/Bachelor-s-projects/blob/main/Investigating%20the%20correlation%20between%20Tertiary%20Education%20and%20Life%20Expectancy.pdf)
 
 ### Strategy & Management
--  **Amsterdam’s Circular Economy Plan** - Strategic evaluation using the Bryson Model. [Download PDF](LINK_TO_PDF)
--  **McDonald’s Corporate Structure** - Organizational analysis of a global giant. [Download PDF](LINK_TO_PDF)
+-  **Amsterdam’s Circular Economy Plan** - Strategic evaluation using the Bryson Model. [Download PDF](https://github.com/Tommaso-Maccaferri/Bachelor-s-projects/blob/main/Analysis%20of%20the%20City%20of%20Amsterdam%E2%80%99s%20Circular%20Economy%20Strategy%20Using%20Bryson%E2%80%99s%20Model.pdf)
+-  **McDonald’s Functional Analysis** - Organizational analysis of a global giant. [Download PDF](https://github.com/Tommaso-Maccaferri/Bachelor-s-projects/blob/main/The%20Functional%20Analysis%20of%20McDonald%E2%80%99s.pdf)
+-  **Understanding Corporate Finance through the lens of Cairn Homes PLC annual report** - (https://github.com/Tommaso-Maccaferri/Bachelor-s-projects/blob/main/Understanding%20Corporate%20Finance%20through%20the%20lens%20of%20Cairn%20Homes%20PLC%20annual%20report.pdf)
 
 ---
 **My contacts:** [LinkedIn Profile](https://www.linkedin.com/in/tommaso-maccaferri-6bba44262/) |[t.maccaferri@student.maastrichtuniversity.nl]
