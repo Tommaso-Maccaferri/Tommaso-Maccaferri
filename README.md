@@ -1,4 +1,4 @@
-# Hi there, I'm Tommaso 👋
+# Hi there, I'm Tommaso 
 
 I am a **Research Master’s student in Economic and Financial Research** at **Maastricht University**, focused on advancing macroeconomics researches using rigorous econometric designs.
 Previously, I graduated *Cum Laude* in Economics from the **University of Bologna**.
@@ -59,4 +59,4 @@ A collection of quantitative analyses and strategic case studies.
 -  **Understanding Corporate Finance through the lens of Cairn Homes PLC annual report** - [Download PDF](https://github.com/Tommaso-Maccaferri/Bachelor-s-projects/blob/main/Understanding%20Corporate%20Finance%20through%20the%20lens%20of%20Cairn%20Homes%20PLC%20annual%20report.pdf)
 
 ---
-**My contacts:** [LinkedIn Profile](https://www.linkedin.com/in/tommaso-maccaferri-6bba44262/) |[t.maccaferri@student.maastrichtuniversity.nl]
+**My contacts:** [LinkedIn Profile](https://www.linkedin.com/in/tommaso-maccaferri-6bba44262/) | [Personal Website](https://tommaso-maccaferri.github.io/) | [tommaso.maccaferri@gmail.com](tommaso.maccaferri@gmail.com) | [t.maccaferri@student.maastrichtuniversity.nl](t.maccaferri@student.maastrichtuniversity.nl)
