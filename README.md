@@ -11,6 +11,20 @@ Previously, I graduated *Cum Laude* in Economics from the **University of Bologn
 
 ## Most recent Projects (Master's Degree)
 
+### [Reassessing the ARRA Employment Multiplier: A Continuous Treatment Approach]
+*R Based Project*
+An exercise involved in the application of modern econometric estimation techniques to asses the American Recovery and Reivestment Act effects on employment.
+- **Objective:** Evaluation of previous papers interested in ARRA employment effects and comparison of their results with ones obtained through modern differences-in-differences technqiues.
+- **Tools:** R (Tidyverse, Econometric models).
+- **Outcome:** Added dynamic evolution and cohort-heterogenous effects of the ARRA job-multiplier. Validated some of previously obtained results.
+
+### [A Study in Banking Competition: Illinois banking market between 1984 and 2020]
+*R Based Project*
+An analysis carried by implementating various competition models to the Illinois Banking sector to evaluate its level of competition between 1984 and 2020.
+- **Objective:** Investigation of the evolution of the sector's concentration over time in four different time periods and accross geographical areas.
+- **Tools:** R (Tidyverse, Modelling, Econometric models).
+- **Outcome:** Found wide-spread collusive behavior over time and spatial monopolistic competition in the banking sector. Relevant differences in rent extraction found according to the strictness of legislation and between rural and urban areas.
+
 ### [Revaluation of "The China Syndrome" (Autor et al.)](https://github.com/Tommaso-Maccaferri/Autor-China-syndrome-replication)
 *R Based Project*
 A replication and critical revaluation of the seminal paper on the impact of Chinese import competition on US labor markets.
