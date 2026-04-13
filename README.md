@@ -11,7 +11,7 @@ Previously, I graduated *Cum Laude* in Economics from the **University of Bologn
 
 ## Most recent Projects (Master's Degree)
 
-### [Reassessing the ARRA Employment Multiplier: A Continuous Treatment Approach]
+### [Reassessing the ARRA Employment Multiplier: A Continuous Treatment Approach](https://github.com/Tommaso-Maccaferri/Reassessing-the-ARRA-Employment-Multiplier)
 *R Based Project*
 An exercise involved in the application of modern econometric estimation techniques to asses the American Recovery and Reivestment Act effects on employment.
 - **Objective:** Evaluation of previous papers interested in ARRA employment effects and comparison of their results with ones obtained through modern differences-in-differences technqiues.
