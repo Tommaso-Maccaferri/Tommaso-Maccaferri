@@ -13,6 +13,7 @@ Previously, I graduated *Cum Laude* in Economics from the **University of Bologn
 
 ### [Reassessing the ARRA Employment Multiplier: A Continuous Treatment Approach](https://github.com/Tommaso-Maccaferri/Reassessing-the-ARRA-Employment-Multiplier)
 *R Based Project*
+
 An exercise involved in the application of modern econometric estimation techniques to asses the American Recovery and Reivestment Act effects on employment.
 - **Objective:** Evaluation of previous papers interested in ARRA employment effects and comparison of their results with ones obtained through modern differences-in-differences technqiues.
 - **Tools:** R (Tidyverse, Econometric models).
@@ -20,6 +21,7 @@ An exercise involved in the application of modern econometric estimation techniq
 
 ### [A Study in Banking Competition: Illinois banking market between 1984 and 2020]
 *R Based Project*
+
 An analysis carried by implementating various competition models to the Illinois Banking sector to evaluate its level of competition between 1984 and 2020.
 - **Objective:** Investigation of the evolution of the sector's concentration over time in four different time periods and accross geographical areas.
 - **Tools:** R (Tidyverse, Modelling, Econometric models).
@@ -27,6 +29,7 @@ An analysis carried by implementating various competition models to the Illinois
 
 ### [Revaluation of "The China Syndrome" (Autor et al.)](https://github.com/Tommaso-Maccaferri/Autor-China-syndrome-replication)
 *R Based Project*
+
 A replication and critical revaluation of the seminal paper on the impact of Chinese import competition on US labor markets.
 - **Objective:** Testing the robustness of the original results 12 years after publication.
 - **Tools:** R (Tidyverse, Econometric models).
@@ -34,6 +37,7 @@ A replication and critical revaluation of the seminal paper on the impact of Chi
 
 ### [West Germany Postwar Growth: Human Capital & Immigration](https://github.com/Tommaso-Maccaferri/West-Germany-growth-accounting-julia)
 *Julia Based Project*
+
 An econometric decomposition of the "Wirtschaftswunder" (1950-1990).
 - **Objective:** Estimating the contribution of human capital accumulation and migration to GDP growth.
 - **Tools:** Julia (DataFrames.jl, GLM.jl) for high-performance historical data analysis.
