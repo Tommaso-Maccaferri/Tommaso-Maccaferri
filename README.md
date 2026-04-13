@@ -4,7 +4,7 @@ I am a **Research Master’s student in Economic and Financial Research** at **M
 Previously, I graduated *Cum Laude* in Economics from the **University of Bologna**.
 
 - **Focus:** Advanced econometric modelling, quantitative historical analysis, and policy evaluation.
-- **Tech Stack:** R, Julia, Stata, C++.
+- **Technical Skills:** R, Julia, Stata, C++.
 - **Interests:** Labor Economics, Monetary Policy and Banking, Economic History.
 
 ---
