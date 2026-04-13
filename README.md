@@ -19,7 +19,7 @@ An exercise involved in the application of modern econometric estimation techniq
 - **Tools:** R (Tidyverse, Econometric models).
 - **Outcome:** Added dynamic evolution and cohort-heterogenous effects of the ARRA job-multiplier. Validated some of previously obtained results.
 
-### [A Study in Banking Competition: Illinois banking market between 1984 and 2020]
+### [A Study in Banking Competition: Illinois banking market between 1984 and 2020](https://github.com/Tommaso-Maccaferri/A-Study-in-Banking-Competition-Illinois-banking-market-between-1984-and-2020)
 *R Based Project*
 
 An analysis carried by implementating various competition models to the Illinois Banking sector to evaluate its level of competition between 1984 and 2020.
