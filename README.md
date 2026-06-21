@@ -11,6 +11,16 @@ Previously, I graduated *Cum Laude* in Economics from the **University of Bologn
 
 ## Most recent Projects (Master's Degree)
 
+### [Does Energy Cause Growth? Evidence from Spanish Italian and French energy markets](https://github.com/Tommaso-Maccaferri/Does-Energy-Cause-Growth-Evidence-from-Spanish-Italian-and-French-energy-markets)
+
+*R Based Project*
+
+A cross-country Bayesian VAR and time-varying BVAR analysis assessing the relationship between energy production mixes and macroeconomic performance in France, Italy and Spain.
+
+- **Objective:** Testing the Conservation, Growth, Neutrality and Feedback hypotheses on energy-growth causality across production and consumption transmission channels, before and after the 2012 debt crisis, the Covid-19 pandemic and the 2022 energy crisis.
+- **Tools:** R (Bayesian VAR, Time-Varying Parameter BVAR, Gibbs Sampling).
+- **Outcome:** Found that no single hypothesis holds uniformly across channels; supply-side feedback effects dominate, and energetically diversified or independent countries (France, Spain) better capture growth premiums than import-dependent Italy.
+
 ### [Reassessing the ARRA Employment Multiplier: A Continuous Treatment Approach](https://github.com/Tommaso-Maccaferri/Reassessing-the-ARRA-Employment-Multiplier)
 *R Based Project*
 
