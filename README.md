@@ -37,6 +37,16 @@ An analysis carried by implementating various competition models to the Illinois
 - **Tools:** R (Tidyverse, Modelling, Econometric models).
 - **Outcome:** Found wide-spread collusive behavior over time and spatial monopolistic competition in the banking sector. Relevant differences in rent extraction found according to the strictness of legislation and between rural and urban areas.
 
+### [Labor and AI: A Simulation Exercise](https://github.com/Tommaso-Maccaferri/Labor-and-AI-simulation-exercise)
+
+*R Based Project — Simulation Exercise & Report (not a paper)*
+
+A self-contained simulation exercise building a synthetic regional labor market DGP to study how AI adoption displaces high-skill workers while complementing mid-skill ones, under both discrete and continuous treatment definitions.
+
+- **Objective:** Demonstrating the bias of OLS and TWFE under staggered AI adoption, and recovering unbiased dose-specific treatment effects via the Sun & Abraham (2021) and continuous-treatment CGBS (2025) estimators.
+- **Tools:** R (Two-Way Fixed Effects, Sun & Abraham, Goodman-Bacon Decomposition, Continuous-Treatment CGBS).
+- **Outcome:** Found that simulated AI adoption cuts high-skill employment by ~25% and depresses high-skill wages after 10 years, while boosting mid-skill wages and total output; confirmed SA and CGBS recover consistent, unbiased estimates under their respective treatment definitions, unlike OLS and TWFE.
+
 ### [Revaluation of "The China Syndrome" (Autor et al.)](https://github.com/Tommaso-Maccaferri/Autor-China-syndrome-replication)
 *R Based Project*
 
